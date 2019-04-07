@@ -4,7 +4,7 @@ console.log("Hello world!"); // English
 console.log("Hej vänner!"); // Swedish
 console.log("Hola, mundo!"); // Spanish!
 //2
-console.log("I'm awesome");
+console.log("I/'m awesome");
 var x;
 console.log("the value of x will be: Undifiend");
 console.log(x);
